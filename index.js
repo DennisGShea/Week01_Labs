@@ -20,8 +20,7 @@
 //      console.log(books[i].title)
 // }
 
-let a = 1;
-leb b = 2:
+
 
 
 
